@@ -81,6 +81,12 @@ ul li.active a{
 	color: #000;
 }
 
+@media (max-width:300px){
+	body {
+		display: block;
+	}
+}
+
 body{
 	background-color: #f2f4f8;
 }

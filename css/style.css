@@ -81,7 +81,7 @@ ul li.active a{
 	color: #000;
 }
 
-@media (max-width:400px){
+@media screen and (min-width: 480px) {
 	body {
 		display: block;
 	}
